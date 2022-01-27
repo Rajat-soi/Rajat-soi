@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajat-soi
+- 👋 Hi, I’m @Ritesh kumar
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
